@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 15px;
+  /* height: 100vh; */
+  background-color: azure;
+  font-size: 20px;
+  font-family: monospace;
+  text-align: center;
+}
+p {
+  margin: 0;
+  padding: 0;
+}
+.resultTask {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+.itemBlock9 {
+  text-align: left;
+}
